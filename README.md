@@ -5,7 +5,7 @@ Once converted, you can simply upload the new data files to Shopify.
 
 Please see the detailed instructions at https://firstwireapp.com/blog/bigcommerce-to-shopify-migration-free-tool/
 
-See the code and complete guide below.
+See the code and guide below.
 
 **Step 1 — Install Python (one-time setup)**
 
